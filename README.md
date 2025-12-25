@@ -48,3 +48,8 @@ python main.py
 ## Dataset
 
 The model uses the `Breast_cancer_data.csv` dataset, which contains diagnostic features for breast cancer classification.
+
+## Author
+
+**Sagnik Mukherjee**  
+[GitHub Profile](https://github.com/sagnik0712mukherjee)
